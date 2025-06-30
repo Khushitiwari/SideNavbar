@@ -64,7 +64,7 @@ Made with 💙 by [Khushi Tiwari](https://github.com/KhushiTiwari)
 
 ---
 
-Let me know if you'd like help adding new features like toggle functionality or JavaScript interactivity!
+
 
 
 
