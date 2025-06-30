@@ -17,6 +17,16 @@ A clean and responsive **Side Navigation Bar** built using **HTML** and **CSS** 
 
 
 
+## 📁 Folder Structure
+
+```
+SideNavbar/
+├── index.html
+├── style.css
+└── README.md
+```
+
+---
 
 ## 🛠️ Technologies Used
 
@@ -29,11 +39,11 @@ A clean and responsive **Side Navigation Bar** built using **HTML** and **CSS** 
 
 1. Clone the repository:
 
-   bash
+   ```bash
    git clone https://github.com/KhushiTiwari/SideNavbar.git
-   
+   ```
 
-2. Open index.html in your browser to view the navbar.
+2. Open `index.html` in your browser to view the navbar.
 
 3. Customize the links and style according to your project’s needs.
 
@@ -51,6 +61,10 @@ A clean and responsive **Side Navigation Bar** built using **HTML** and **CSS** 
 ## 🙌 Creator
 
 Made with 💙 by [Khushi Tiwari](https://github.com/KhushiTiwari)
+
+---
+
+Let me know if you'd like help adding new features like toggle functionality or JavaScript interactivity!
 
 
 
